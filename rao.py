@@ -5,7 +5,7 @@ import speech_recognition as speech
 import requests  # Add the requests library
 from bs4 import BeautifulSoup  # Add BeautifulSoup for web scraping
 
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 
 engine = pyttsx3.init()
 
